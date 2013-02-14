@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="714"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="286" type="line"/>
+      <point x="462" y="259" type="line"/>
+      <point x="82" y="259" type="line"/>
+      <point x="45" y="304" type="line"/>
+      <point x="433" y="880" type="line"/>
+      <point x="503" y="880" type="line"/>
+      <point x="503" y="293" type="line"/>
+      <point x="481" y="315" type="line"/>
+      <point x="657" y="315" type="line"/>
+      <point x="657" y="259" type="line"/>
+      <point x="481" y="259" type="line"/>
+      <point x="503" y="286" type="line"/>
+      <point x="503" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="315" type="line"/>
+      <point x="442" y="295" type="line"/>
+      <point x="442" y="869" type="line"/>
+      <point x="472" y="841" type="line"/>
+      <point x="99" y="288" type="line"/>
+      <point x="83" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>324</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>839</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>414</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>404.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>404.0</real>
+                  <key>y</key>
+                  <real>880.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>542.0</real>
+                  <key>y</key>
+                  <real>880.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>542.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>714</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
